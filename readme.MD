@@ -8,6 +8,7 @@ requirements
     - if card not blocked
     - can afford
 - repay debt
+- bla bla
 
 
 technical requirements
