@@ -1,11 +1,11 @@
-package pl.mpszczola.creditcard;
-// moj komentarz
+package pl.jkan.creditcard;
+
 class CreditCard {
-    public void assignLimit(double money){
+    public void assignLimit(double money) {
         
     }
-    // get limit will retur current limit
-    public double getLimit(){
+    
+    public double getLimit() {
         return 2000;
     }
 }

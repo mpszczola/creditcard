@@ -1,4 +1,4 @@
-package pl.mpszczola.creditcard;
+package pl.jkan.creditcard;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

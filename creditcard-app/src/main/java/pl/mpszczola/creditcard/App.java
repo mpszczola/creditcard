@@ -1,4 +1,4 @@
-package pl.mpszczola.creditcard;
+package pl.jkan.creditcard;
 
 /**
  * Hello world!
