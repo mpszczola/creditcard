@@ -8,4 +8,14 @@ class CreditCard {
     public double getLimit(){
         return 2000;
     }
+
+    public void repayDebt(){
+        if(account.getMoney() >= debt){
+            double result = account.getMoney() - debt;
+            account.setMoney((result));
+        }
+        else{
+            throw new RuntimeException("Not enough money");
+        }
+    }
 }
